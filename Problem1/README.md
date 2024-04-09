@@ -29,5 +29,5 @@ The problem involves finding the sum of all numbers that are multiples of either
 To run the code, execute the `multiple_of_3_or_5_till_1000` function in the provided Python script. The result will be printed to the console.
 
 ```bash
-python filename.py
+python solution.py
 ```
